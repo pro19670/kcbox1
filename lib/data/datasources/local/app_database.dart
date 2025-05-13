@@ -1,0 +1,1 @@
+class AppDatabase { static Future<void> init() async { print('DB Initialized'); } }

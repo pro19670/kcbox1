@@ -1,0 +1,1 @@
+class SharedPrefsHelper { static void saveBool(String key, bool value) {} static bool? getBool(String key) => null; }

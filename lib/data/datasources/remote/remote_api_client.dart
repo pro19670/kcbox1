@@ -1,0 +1,1 @@
+class RemoteApiClient { Future<String> fetchData(String url) async => 'response'; }

@@ -1,0 +1,1 @@
+class Location { int id; String name; int storageId; Location({required this.id, required this.name, required this.storageId}); }

@@ -1,0 +1,1 @@
+class Room { int id; String name; Room({required this.id, required this.name}); }

@@ -1,0 +1,1 @@
+class Storage { int id; String name; int roomId; Storage({required this.id, required this.name, required this.roomId}); }

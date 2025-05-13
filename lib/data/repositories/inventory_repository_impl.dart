@@ -1,0 +1,1 @@
+import 'inventory_repository.dart'; class InventoryRepositoryImpl implements InventoryRepository { @override Future<void> addItem(item) async {} @override Future<void> deleteItem(int id) async {} @override Future<List> getItems() async => []; }

@@ -1,0 +1,1 @@
+class Item { int id; String name; String category; String color; String brand; int quantity; Item({required this.id, required this.name, required this.category, required this.color, required this.brand, required this.quantity}); }

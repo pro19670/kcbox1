@@ -1,0 +1,1 @@
+abstract class InventoryRepository { Future<void> addItem(dynamic item); Future<void> deleteItem(int id); Future<List<dynamic>> getItems(); }
